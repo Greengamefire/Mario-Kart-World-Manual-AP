@@ -33,3 +33,6 @@ Gold trophy 6 from any cup,
 If you have any Questions, Bugs, or Additions that you may want to add or notify me of, please feel free to tell me them in the Manuals for Archipelago server thread for Mario Kart World and @greengamefire or dm me for anything relating to this
 
 Link to thread: https://discord.com/channels/1097532591650910289/1379985379939192975
+
+# Thank-You
+@Karramellie for letting me use her manual and combine it into mine

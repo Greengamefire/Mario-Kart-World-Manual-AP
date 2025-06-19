@@ -10,6 +10,7 @@ You have to find all of your cups, characters, and costumes until you beat one o
 You have the option to turn on or off the Open World, Mirror Mode, Rally Mode, and The 1, 2, and 3 star Trophies for a lot of customization of the dificulty that you want to have or how long you want it to be
 
 You also have 9 goals, that being 
+
 special cup - gold 50cc, 
 special cup - gold 100cc,
 special cup - gold 150cc,

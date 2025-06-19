@@ -7,7 +7,7 @@ You start with Mario, Standard Kart, and Mushroom Cup
 You have to find all of your cups, characters, and costumes until you beat one of 9 goals
 # Options
 
-You have the option to turn on or off the Open World, Mirror Mode, Rally Mode, and The 1, 2, and 3 star Trophies for a lot of customization of the dificulty that you want to have or how long you want it to be
+You have the option to turn on or off the Open World, Mirror Mode, Rally Mode (it is called Knockout Tour but once I realized it was too late so that will be in the next update), and The 1, 2, and 3 star Trophies for a lot of customization of the dificulty that you want to have or how long you want it to be
 
 You also have 9 goals, that being 
 

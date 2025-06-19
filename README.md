@@ -11,15 +11,23 @@ You have the option to turn on or off the Open World, Mirror Mode, Rally Mode, a
 
 You also have 9 goals, that being 
 
-special cup - gold 50cc, 
-special cup - gold 100cc,
-special cup - gold 150cc,
-gold trophy 1 from any cup,
-gold trophy 2 from any cup,
-gold trophy 3 from any cup,
-gold trophy 4 from any cup,
-gold trophy 5 from any cup,
-gold trophy 6 from any cup,
+Special cup - gold 50cc, 
+
+Special cup - gold 100cc,
+
+Special cup - gold 150cc,
+
+Gold trophy 1 from any cup,
+
+Gold trophy 2 from any cup,
+
+Gold trophy 3 from any cup,
+
+Gold trophy 4 from any cup,
+
+Gold trophy 5 from any cup,
+
+Gold trophy 6 from any cup,
 
 # Contact_Me
 If you have any Questions, Bugs, or Additions that you may want to add or notify me of, please feel free to tell me them in the Manuals for Archipelago server thread for Mario Kart World and @greengamefire or dm me for anything relating to this

@@ -7,9 +7,9 @@ You start with Mario, Standard Kart, and Mushroom Cup
 You have to find all of your cups, characters, and costumes until you beat one of 9 goals
 # Options
 
-You have the option to turn on or off the Open World, Mirror Mode, Rally Mode (it is called Knockout Tour but once I realized it was too late so that will be in the next update), and The 1, 2, and 3 star Trophies for a lot of customization of the dificulty that you want to have or how long you want it to be
+You have the option to turn on or off the Open World, Mirror Mode, Knockout Tour, and The 1, 2, and 3 star Trophies for a lot of customization of the dificulty that you want to have or how long you want it to be
 
-You also have 9 goals, that being 
+You also have 11 goals, those being 
 
 Special cup - gold 50cc, 
 
@@ -17,17 +17,22 @@ Special cup - gold 100cc,
 
 Special cup - gold 150cc,
 
-Gold trophy 1 from any cup,
+1 gold trophy from any cup: 0
 
-Gold trophy 2 from any cup,
+2 gold trophys from any cup: 0
+    
+3 gold trophys from any cup: 0
 
-Gold trophy 3 from any cup,
+4 gold trophys from any cup: 0
 
-Gold trophy 4 from any cup,
+5 gold trophys from any cup: 0
 
-Gold trophy 5 from any cup,
+6 gold trophys from any cup: 0
+    
+7 gold trophys from any cup: 0
 
-Gold trophy 6 from any cup,
+8 gold trophys from any cup: 0
+
 
 # Contact-Me
 If you have any Questions, Bugs, or Additions that you may want to add or notify me of, please feel free to tell me them in the Manuals for Archipelago server thread for Mario Kart World and @greengamefire or dm me for anything relating to this

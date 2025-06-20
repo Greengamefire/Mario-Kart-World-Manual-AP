@@ -17,21 +17,21 @@ Special cup - gold 100cc,
 
 Special cup - gold 150cc,
 
-1 gold trophy from any cup: 0
+1 gold trophy from any cup
 
-2 gold trophys from any cup: 0
+2 gold trophys from any cup
     
-3 gold trophys from any cup: 0
+3 gold trophys from any cup
 
-4 gold trophys from any cup: 0
+4 gold trophys from any cup
 
-5 gold trophys from any cup: 0
+5 gold trophys from any cup
 
-6 gold trophys from any cup: 0
+6 gold trophys from any cup
     
-7 gold trophys from any cup: 0
+7 gold trophys from any cup
 
-8 gold trophys from any cup: 0
+8 gold trophys from any cup
 
 
 # Contact-Me

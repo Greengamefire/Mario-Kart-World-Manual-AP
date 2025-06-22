@@ -2,9 +2,9 @@
 A Manual for Archipellago made for use on the game Mario Kart World
 
 # Progression
-You start with Mario, Standard Kart, and Mushroom Cup
+You start with all random Characters, Karts, Cups, Areas in the Open World (If Settings Permit), and Tracks (If Settings Permit)
 
-You have to find all of your cups, characters, and costumes until you beat one of 9 goals
+You have to find all of your Cups, Characters, Costumes, Karts, Areas in the Open World (If Settings Permit), and Tracks (If Settings Permit) until you beat one of 11 goals
 # Options
 
 You have the option to turn on or off the Open World, Mirror Mode, Knockout Tour, The 1, 2, and 3 star Trophies, and Randomized Tracks for a lot of customization of the dificulty that you want to have or how long you want it to be

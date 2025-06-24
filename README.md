@@ -9,6 +9,8 @@ You have to find all of your Cups, Characters, Costumes, Karts, Areas in the Ope
 
 You have the option to turn on or off the Open World, Mirror Mode, Knockout Tour, The 1, 2, and 3 star Trophies, and Randomized Tracks for a lot of customization of the dificulty that you want to have or how long you want it to be
 
+Note: If Randomized tracks is on you can use VS. Mode
+
 You also have 11 goals, those being 
 
 Special cup - gold 50cc, 

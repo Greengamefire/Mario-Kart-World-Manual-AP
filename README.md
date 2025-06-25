@@ -7,7 +7,7 @@ You start with all random Characters, Karts, Cups, Areas in the Open World (If S
 You have to find all of your Cups, Characters, Costumes, Karts, Areas in the Open World (If Settings Permit), and Tracks (If Settings Permit) until you beat one of 11 goals
 # Options
 
-You have the option to turn on or off the Open World, Mirror Mode, Knockout Tour, The 1, 2, and 3 star Trophies, and Randomized Tracks for a lot of customization of the dificulty that you want to have or how long you want it to be
+You have the option to turn on or off the Open World, Mirror Mode, Knockout Tour, Grand Prix, The 1, 2, and 3 star Trophies, Randomized Tracks, P Switches, Peach Medalians, and ? Mark Panels for a lot of customization of the dificulty that you want to have or how long you want it to be
 
 Note: If Randomized tracks is on you can use VS. Mode
 

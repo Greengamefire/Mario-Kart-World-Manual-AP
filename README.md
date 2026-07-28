@@ -42,5 +42,5 @@ If you have any Questions, Bugs, or Additions that you may want to add or notify
 Link to thread: https://discord.com/channels/1097532591650910289/1379985379939192975
 
 # Thank-You
-@Karramellie for letting me use her manual and combine it into mine
-@Xanderoni for helping me with the open world
+@Karramellie on discord for letting me use her manual and combine it into mine
+@Xanderoni on discord for helping me with the open world

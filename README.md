@@ -19,21 +19,21 @@ Special cup - gold 100cc,
 
 Special cup - gold 150cc,
 
-1 gold trophy from any cup
+1 Gold Trophy From any Cup (Non Repeatable on other CC)
 
-2 gold trophys from any cup
+2 Gold Trophies From any Cup (Non Repeatable on other CC)
     
-3 gold trophys from any cup
+3 Gold Trophies From any Cup (Non Repeatable on other CC)
 
-4 gold trophys from any cup
+4 Gold Trophies From any Cup (Non Repeatable on other CC)
 
-5 gold trophys from any cup
+5 Gold Trophies From any Cup (Non Repeatable on other CC)
 
-6 gold trophys from any cup
+6 Gold Trophies From any Cup (Non Repeatable on other CC)
     
-7 gold trophys from any cup
+7 Gold Trophies From any Cup (Non Repeatable on other CC)
 
-8 gold trophys from any cup
+8 Gold Trophies From any Cup (Non Repeatable on other CC)
 
 
 # Contact-Me

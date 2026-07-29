@@ -1,13 +1,13 @@
 # Mario-Kart-World-Manual-AP
-A Manual for Archipellago made for use on the game Mario Kart World
+A Manual for Archipelago made for use on the game Mario Kart World
 
 # Progression
 You start with all random Characters, Karts, Cups, Areas in the Open World (If Settings Permit), and Tracks (If Settings Permit)
 
-You have to find all of your Cups, Characters, Costumes, Karts, Areas in the Open World (If Settings Permit), and Tracks (If Settings Permit) until you beat one of 11 goals
+You have to find all of your Cups, Characters, Costumes, Karts, Areas in the Open World (If Settings Permit), Tracks (If Settings Permit), and Drifting and Tricks (If Settings Permit) until you beat one of 11 goals
 # Options
 
-You have the option to turn on or off the Open World, Mirror Mode, Knockout Tour, Grand Prix, The 1, 2, and 3 star Trophies, Randomized Tracks, P Switches, Peach Medalians, and ? Mark Panels for a lot of customization of the dificulty that you want to have or how long you want it to be
+You have the option to turn on or off the Open World, Mirror Mode, Knockout Tour, Grand Prix, The 1, 2, and 3 star Trophies, Randomized Tracks, P Switches, Peach Medalians, ? Mark Panels, and Drifting and Tricks for a lot of customization of the difficulty that you want to have or how long you want it to be
 
 Note: If Randomized tracks is on you can use VS. Mode and **Death link is from every Lakitu Save**
 
